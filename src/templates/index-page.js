@@ -65,11 +65,6 @@ export const IndexPageTemplate = ({
           action="https://www.paypal.com/cgi-bin/webscr"
           method="post"
           target="_top"
-          style={{
-            display: "inline-block",
-            position: "relative",
-            bottom: "-1em",
-          }}
         >
           <input name="cmd" type="hidden" value="_s-xclick" />
           <input name="hosted_button_id" type="hidden" value="7CT2YW5N47BKU" />
@@ -132,9 +127,6 @@ IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array,
-  }),
 };
 
 const IndexPage = ({ data }) => {
@@ -149,7 +141,6 @@ const IndexPage = ({ data }) => {
         heading={frontmatter.heading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
-        intro={frontmatter.intro}
       />
     </Layout>
   );
@@ -184,20 +175,6 @@ export const pageQuery = graphql`
           description
         }
         description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
       }
     }
   }
