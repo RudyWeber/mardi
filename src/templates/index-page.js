@@ -93,11 +93,21 @@ export const IndexPageTemplate = ({
                   </div>
                 </div>
                 <div className="columns">
-                  <div className="column is-12">
+                  <div className="column">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3>
                     <p>{description}</p>
+                  </div>
+                  <div className="column has-text-centered">
+                    <iframe
+                      style={{ border: "none", overflow: "hidden" }}
+                      src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMARDi.france2019&amp;tabs=timeline&amp;width=300&amp;height=300&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId"
+                      width="300"
+                      height="300"
+                      frameborder="0"
+                      scrolling="no"
+                    ></iframe>
                   </div>
                 </div>
                 <div className="column is-12">
