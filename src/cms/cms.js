@@ -3,14 +3,16 @@ import uploadcare from "netlify-cms-media-library-uploadcare";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 
 import WhoWeHelpPagePreview from "./preview-templates/WhoWeHelpPagePreview";
+import VolunteerPagePreview from "./preview-templates/VolunteerPagePreview";
+import FaqPagePreview from "./preview-templates/FaqPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
-import ProductPagePreview from "./preview-templates/ProductPagePreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
-CMS.registerPreviewTemplate("about", WhoWeHelpPagePreview);
-CMS.registerPreviewTemplate("products", ProductPagePreview);
+CMS.registerPreviewTemplate("who-we-help", WhoWeHelpPagePreview);
+CMS.registerPreviewTemplate("volunteer", VolunteerPagePreview);
+CMS.registerPreviewTemplate("faq", FaqPagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);
