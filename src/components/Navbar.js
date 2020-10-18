@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
 import logo from "../img/logo.png";
+import facebook from "../img/social/facebook.svg";
+import instagram from "../img/social/instagram.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -74,6 +76,41 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/faq">
                 FAQ
               </Link>
+            </div>
+            <div
+              className="navbar-end has-text-centered"
+              style={{ display: "flex" }}
+            >
+              <a
+                className="navbar-item"
+                title="facebook"
+                href="https://www.facebook.com/groups/639221036512761"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{ width: "1em", height: "1em" }}
+                  />
+                </span>
+              </a>
+              <a
+                className="navbar-item"
+                title="instagram"
+                href="https://www.instagram.com/mardi.france"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img
+                    src={instagram}
+                    alt="Instagram"
+                    style={{ width: "1em", height: "1em" }}
+                  />
+                </span>
+              </a>
             </div>
           </div>
         </div>
