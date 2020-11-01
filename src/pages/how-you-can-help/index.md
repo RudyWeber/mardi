@@ -36,7 +36,7 @@ To help, you can do one or more of these 3 things:
   * Help with housing issues; contacting refugee housing support services and speaking with councils, housing authorities
   * Email [home@MARDi.org.uk](mailto:home@MARDi.org.uk) to get involved in your area
 
-# Donate: Finacial and medical supplies
+# Donate: Financial and medical supplies
 
 We run solely on donations, every penny of which goes to refugees as our staff is voluntary.
 
