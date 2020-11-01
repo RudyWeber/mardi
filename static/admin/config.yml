@@ -120,6 +120,18 @@ collections:
           #         },
           #       ],
           #   }
+      - file: "src/pages/who-we-are/index.md"
+        label: "Who we are"
+        name: "who-we-are"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "who-we-are-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/who-we-help/index.md"
         label: "Who we help"
         name: "who-we-help"
