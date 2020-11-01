@@ -47,7 +47,7 @@ A box of paracetamol is 25p so no amount is too small.
 <center>
 <form action="https://www.paypal.com/cgi-bin/webscr"
       method="post"
-      target="_top"
+      target="_blank"
       >
         <input name="cmd" type="hidden" value="_s-xclick" />
           <input name="hosted_button_id" type="hidden" value="7CT2YW5N47BKU" />
