@@ -68,7 +68,7 @@ const Navbar = class extends React.Component {
                 Who we help
               </Link>
               <Link className="navbar-item" to="/refugee-crisis">
-                Refugee crisis
+                Paris refugee crisis
               </Link>
               <Link className="navbar-item" to="/volunteer">
                 Volunteer
