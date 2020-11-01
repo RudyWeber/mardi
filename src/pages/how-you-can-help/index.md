@@ -1,10 +1,10 @@
 ---
-templateKey: "volunteer-page"
-path: /volunteer
-title: Volunteer
+templateKey: "how-you-can-help-page"
+path: /how-you-can-help
+title: How you can help
 ---
 
-### Can I volunteer?
+### How you can help
 
 MARDi needs:
 

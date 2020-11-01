@@ -168,15 +168,15 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - file: "src/pages/volunteer/index.md"
-        label: "Volunteer"
-        name: "volunteer"
+      - file: "src/pages/how-you-can-help/index.md"
+        label: "How you can help"
+        name: "how-you-can-help"
         fields:
           - {
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "volunteer-page",
+              default: "how-you-can-help-page",
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }

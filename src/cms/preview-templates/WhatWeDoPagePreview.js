@@ -1,19 +1,19 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { WhoWeArePageTemplate } from "../../templates/who-we-are-page";
+import { WhatWeDoPageTemplate } from "../../templates/what-we-do-page";
 
-const WhoWeArePagePreview = ({ entry, widgetFor }) => (
-  <WhoWeArePageTemplate
+const WhatWeDoPagePreview = ({ entry, widgetFor }) => (
+  <WhatWeDoPageTemplate
     title={entry.getIn(["data", "title"])}
     content={widgetFor("body")}
   />
 );
 
-WhoWeArePagePreview.propTypes = {
+WhatWeDoPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 };
 
-export default WhoWeArePagePreview;
+export default WhatWeDoPagePreview;

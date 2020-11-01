@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-export const VolunteerPageTemplate = ({ title, content, contentComponent }) => {
+export const HowYouCanHelpPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -25,18 +25,18 @@ export const VolunteerPageTemplate = ({ title, content, contentComponent }) => {
   );
 };
 
-VolunteerPageTemplate.propTypes = {
+HowYouCanHelpPageTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
 
-const VolunteerPage = ({ data }) => {
+const HowYouCanHelpPage = ({ data }) => {
   const { markdownRemark: post } = data;
 
   return (
     <Layout>
-      <VolunteerPageTemplate
+      <HowYouCanHelpPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
@@ -45,14 +45,14 @@ const VolunteerPage = ({ data }) => {
   );
 };
 
-VolunteerPage.propTypes = {
+HowYouCanHelpPage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default VolunteerPage;
+export default HowYouCanHelpPage;
 
-export const volunteerPageQuery = graphql`
-  query VolunteerPage($id: String!) {
+export const howYouCanHelpPageQuery = graphql`
+  query HowYouCanHelpPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
