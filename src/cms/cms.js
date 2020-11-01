@@ -2,6 +2,7 @@ import CMS from "netlify-cms-app";
 import uploadcare from "netlify-cms-media-library-uploadcare";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 
+import WhoWeArePagePreview from "./preview-templates/WhoWeArePagePreview";
 import WhoWeHelpPagePreview from "./preview-templates/WhoWeHelpPagePreview";
 import VolunteerPagePreview from "./preview-templates/VolunteerPagePreview";
 import RefugeeCrisisPagePreview from "./preview-templates/RefugeeCrisisPagePreview";
@@ -13,6 +14,7 @@ CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
+CMS.registerPreviewTemplate("who-we-are", WhoWeArePagePreview);
 CMS.registerPreviewTemplate("who-we-help", WhoWeHelpPagePreview);
 CMS.registerPreviewTemplate("refugee-crisis", RefugeeCrisisPagePreview);
 CMS.registerPreviewTemplate("volunteer", VolunteerPagePreview);
