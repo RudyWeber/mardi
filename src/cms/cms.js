@@ -9,11 +9,13 @@ import RefugeeCrisisPagePreview from "./preview-templates/RefugeeCrisisPagePrevi
 import FaqPagePreview from "./preview-templates/FaqPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
+import ContactUsPagePreview from "./preview-templates/ContactUsPagePreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
+CMS.registerPreviewTemplate("contact-us", ContactUsPagePreview);
 CMS.registerPreviewTemplate("who-we-are", WhoWeArePagePreview);
 CMS.registerPreviewTemplate("what-we-do", WhatWeDoPagePreview);
 CMS.registerPreviewTemplate("refugee-crisis", RefugeeCrisisPagePreview);
