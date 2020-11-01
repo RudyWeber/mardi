@@ -132,6 +132,18 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/what-we-do/index.md"
+        label: "What we do"
+        name: "what-we-do"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "what-we-do-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/who-we-help/index.md"
         label: "Who we help"
         name: "who-we-help"
