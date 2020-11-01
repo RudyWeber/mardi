@@ -21,4 +21,4 @@ CMS.registerPreviewTemplate("what-we-do", WhatWeDoPagePreview);
 CMS.registerPreviewTemplate("refugee-crisis", RefugeeCrisisPagePreview);
 CMS.registerPreviewTemplate("how-you-can-help", HowYouCanHelpPagePreview);
 CMS.registerPreviewTemplate("faq", FaqPagePreview);
-CMS.registerPreviewTemplate("blog", BlogPostPreview);
+CMS.registerPreviewTemplate("news", BlogPostPreview);
