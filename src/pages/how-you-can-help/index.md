@@ -54,7 +54,7 @@ A box of paracetamol is 25p so no amount is too small.
           <button
             alt="Donate with PayPal button"
             type="submit"
-            className="button donate-button"
+            class="button donate-button"
           >
             Donate now
           </button>
