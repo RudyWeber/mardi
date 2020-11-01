@@ -9,11 +9,14 @@ Since the destruction of the Calais Jungle in October 2016 the 10,000 refugees w
 
 The government takes no responsibility for these camps, only providing minimal sanitation facilities - portable toilets and outside taps which are never enough for the camp sizes – and only after significant pressure from NGOs and grassroots refugee support organisations. Because of this, the camps are unsanitary and exposed leaving refugees at risk of disease and vulnerable to violence from the public and the police – the after-effects of which we see regularly in our clinic. The government also performs random evacuations of the camps which typically involves clearing the area by police force in the early hours of the morning, destroying all tents and shacks, and sometimes temporarily housing refugees in sports halls across France, sometimes not. This housing tends to last a few days before people are told to leave for various reasons which usually do not explain the decision and find themselves back on the street without any materials for shelter or the safety in numbers that the old camp provided. This never-ending cycle achieves nothing but to cause even more mental and physical damage to the refugee population here and does not prevent new people arriving, as to be a refugee is not a choice, no amount of hostility or aggression will stop people seeking safety as it cannot be worse than what they are running from.
 
+![Tents in the dirt under a bridge](/img/tents-under-bridge.jpg)
+
 > “No one leaves home unless home is the mouth of a shark” — Warsan Shire, [Home](https://www.youtube.com/watch?v=nI9D92Xiygo&ab_channel=GarrettMogge)
 
 Due to this lack of action by the state, most of the support for refugees living in the Paris Refugee Camps comes from grassroots refugee support organisations and NGOs including food, clothing, tents, sleeping bags, medical aid, and social and legal help. This is not only unfair but unnecessary. The state is obliged and able to provide this care but is choosing not to, as seen in many countries across the world today — the hostile face of Europe.
 
 Other organisations in Paris:
+
 * [Solidarité Migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/)
 * [Chaubertin](https://chaubertin.org)
 * [Utopia 56](http://www.utopia56.com/en/our-missions-in-paris)
