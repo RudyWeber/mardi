@@ -9,10 +9,12 @@ Our work has two main aims; firstly to bridge the healthcare gap between what re
 
 We also collect evidence of the human rights abuses occurring daily in the camps and present this in as many circles as possible. For example:
 
-* Our social media platform
+* [Our social media platform](/contact-us)
 * Articles in international publications, e.g.
+
   * [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32093-8/fulltext)
   * [British Journal of GPs](https://bjgplife.com/2020/02/11/caring-for-refugees-in-europe-can-kindness-overcome-hostility)
 * Speaker events with other grassroots organisations, such as:
+
   * [Hull Help for Refugees](https://www.facebook.com/HullHelpForRefugees/videos/2621506991449060/)
   * [Donate 4 Refugees](https://m.facebook.com/story.php?story_fbid=980235939160204&id=1634712933485687>)
