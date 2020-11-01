@@ -106,7 +106,7 @@ export const IndexPageTemplate = ({
                       src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMARDi.france2019&amp;tabs=timeline&amp;width=300&amp;height=300&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId"
                       width="300"
                       height="300"
-                      frameborder="0"
+                      frameBorder="0"
                       scrolling="no"
                     ></iframe>
                   </div>
