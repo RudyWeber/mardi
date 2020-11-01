@@ -168,8 +168,20 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - file: "src/pages/contact-us/index.md"
+        label: "Contact us"
+        name: "contact-us"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "contact-us-page",
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/faq/index.md"
-        label: "FAQ"
+        label: "FAQs"
         name: "faq"
         fields:
           - {
