@@ -84,7 +84,7 @@ const Navbar = class extends React.Component {
               <a
                 className="navbar-item"
                 title="facebook"
-                href="https://www.facebook.com/groups/639221036512761"
+                href="https://www.facebook.com/MARDi.france2019"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -99,7 +99,7 @@ const Navbar = class extends React.Component {
               <a
                 className="navbar-item"
                 title="instagram"
-                href="https://www.instagram.com/mardi.france"
+                href="https://www.instagram.com/mardi.france2019"
                 target="_blank"
                 rel="noopener noreferrer"
               >
