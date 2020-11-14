@@ -161,7 +161,7 @@ collections:
               name: "slideshowImages",
               widget: "list",
               allow_add: true,
-              label_singular: "Add a picture",
+              label_singular: "a picture",
               default: [],
               summary: "{{fields.image}}",
               field: {
