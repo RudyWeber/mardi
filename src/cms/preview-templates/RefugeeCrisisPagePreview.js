@@ -2,10 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 import { RefugeeCrisisPageTemplate } from "../../templates/refugee-crisis-page";
 
-const RefugeeCrisisPagePreview = ({ entry, widgetFor }) => (
+const RefugeeCrisisPagePreview = ({ entry }) => (
   <RefugeeCrisisPageTemplate
     title={entry.getIn(["data", "title"])}
-    content={widgetFor("body")}
+    content={entry.getIn(["data", "content"])}
+    slideshowImages={entry.getIn(["data", "slideshowImages"]).toJS()}
   />
 );
 
