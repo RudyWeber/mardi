@@ -18,20 +18,22 @@ export const RefugeeCrisisPageTemplate = ({
   const PageContent = contentComponent || Content;
   const slideshows = [slideshowImages]; // TODO: remove when I add multi sliders support
 
-  console.log(slideshowImages);
+  const slideshowComponents = slideshows.map((slideshowImages, index) => (
+    <Carousel key={`carousel-${index}`}>
+      {slideshowImages.map((image, index) => {
+        const src = !!image.childImageSharp
+          ? image.childImageSharp.fluid.src
+          : image;
 
-  const slideshowComponents = slideshows.map((slideshowImages) => (
-    <Carousel>
-      {slideshowImages.map(({ childImageSharp: { fluid: { src } } }, index) => (
-        <img key={src} src={src} alt={`image ${index + 1}`} />
-      ))}
+        return <img key={src} src={src} alt={`slide ${index + 1}`} />;
+      })}
     </Carousel>
   ));
 
   const splitContent = content.split("[slideshow]");
 
-  const contentComponents = splitContent.map((content) => (
-    <PageContent className="content" content={content} />
+  const contentComponents = splitContent.map((content, index) => (
+    <PageContent className="content" content={content} key={`coponent-${index}`} />
   ));
 
   const components = intersperseBy(
