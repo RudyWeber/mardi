@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { RefugeeCrisisPageTemplate } from "../../templates/refugee-crisis-page";
+import { HTMLContent } from "../../components/Content";
 
 const RefugeeCrisisPagePreview = ({ entry }) => {
   const data = entry.getIn(["data"]);
@@ -11,6 +12,7 @@ const RefugeeCrisisPagePreview = ({ entry }) => {
       title={title}
       content={body}
       slideshowImages={slideshowImages}
+      contentComponent={HTMLContent}
     />
   );
 };
