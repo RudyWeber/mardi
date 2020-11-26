@@ -1,6 +1,6 @@
 import React from "react";
 
-import logo from "../img/logo.png";
+import logo from "../img/logo-with-text.png";
 
 const currentYear = new Date().getFullYear();
 

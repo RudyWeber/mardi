@@ -3,9 +3,12 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import { withSlideshows } from "../utils/slideshow";
 
 export const ContactUsPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
+
+  const actualContent = withSlideshows(content, PageContent);
 
   return (
     <section className="section section--gradient">
@@ -16,7 +19,7 @@ export const ContactUsPageTemplate = ({ title, content, contentComponent }) => {
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              <PageContent className="content" content={content} />
+              {actualContent}
             </div>
           </div>
         </div>

@@ -2,6 +2,8 @@ import CMS from "netlify-cms-app";
 import uploadcare from "netlify-cms-media-library-uploadcare";
 import cloudinary from "netlify-cms-media-library-cloudinary";
 
+import slideshowWidget from "./customWidgets/slideshow";
+
 import WhoWeArePagePreview from "./preview-templates/WhoWeArePagePreview";
 import WhatWeDoPagePreview from "./preview-templates/WhatWeDoPagePreview";
 import HowYouCanHelpPagePreview from "./preview-templates/HowYouCanHelpPagePreview";
@@ -13,6 +15,8 @@ import ContactUsPagePreview from "./preview-templates/ContactUsPagePreview";
 
 CMS.registerMediaLibrary(uploadcare);
 CMS.registerMediaLibrary(cloudinary);
+
+CMS.registerEditorComponent(slideshowWidget);
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("contact-us", ContactUsPagePreview);

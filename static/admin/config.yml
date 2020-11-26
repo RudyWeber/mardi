@@ -156,20 +156,6 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Slideshow images",
-              name: "slideshowImages",
-              widget: "list",
-              allow_add: true,
-              label_singular: "a picture",
-              default: [],
-              summary: "{{fields.image}}",
-              field: {
-                label: Image,
-                name: image,
-                widget: image
-              }
-            }
       - file: "src/pages/how-you-can-help/index.md"
         label: "How you can help"
         name: "how-you-can-help"
