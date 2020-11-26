@@ -15,6 +15,7 @@ At last count, there are now over 2000 people living in the Paris Refugee Camps.
 
 Word of a looming evacuation spreads through the camps as police vans are seen watching from the periphery once again, meanwhile failing to act on reports of regular assaults on the refugee population. 
 
+
 Who do you protect?
 
 Food is sparse, everyone is hungry. As another lockdown hits France and islamophobia sweeps across the nation spread from the mouths of politicians people are scared. And rightly so.
