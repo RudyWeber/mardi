@@ -16,7 +16,7 @@ export default class BlogIndexPage extends React.Component {
           }}
         >
           <h1 className="has-text-weight-bold is-size-1 blog-header">
-            MARDi blog: Updates from the ground
+            Situation update: news from the ground
           </h1>
         </div>
         <section className="section">
