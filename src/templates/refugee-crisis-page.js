@@ -4,42 +4,16 @@ import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
 
-import { Carousel } from "react-responsive-carousel";
-import "react-responsive-carousel/lib/styles/carousel.min.css";
-
-const intersperseBy = (xs, f) => xs.flatMap((x, i) => [x, f(i)]);
+import { withSlideshows } from "../utils/slideshow";
 
 export const RefugeeCrisisPageTemplate = ({
   title,
   content,
   contentComponent,
-  slideshowImages,
 }) => {
   const PageContent = contentComponent || Content;
-  const slideshows = [slideshowImages]; // TODO: remove when I add multi sliders support
 
-  const slideshowComponents = slideshows.map((slideshowImages, index) => (
-    <Carousel key={`carousel-${index}`}>
-      {slideshowImages.map((image, index) => {
-        const src = !!image.childImageSharp
-          ? image.childImageSharp.fluid.src
-          : image;
-
-        return <img key={src} src={src} alt={`slide ${index + 1}`} />;
-      })}
-    </Carousel>
-  ));
-
-  const splitContent = content.split("[slideshow]");
-
-  const contentComponents = splitContent.map((content, index) => (
-    <PageContent className="content" content={content} key={`coponent-${index}`} />
-  ));
-
-  const components = intersperseBy(
-    contentComponents,
-    (index) => slideshowComponents[index]
-  );
+  const actualContent = withSlideshows(content, PageContent);
 
   return (
     <section className="section section--gradient">
@@ -50,7 +24,7 @@ export const RefugeeCrisisPageTemplate = ({
               <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
                 {title}
               </h2>
-              {components}
+              {actualContent}
             </div>
           </div>
         </div>
@@ -74,7 +48,6 @@ const RefugeeCrisisPage = ({ data }) => {
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
         content={post.html}
-        slideshowImages={post.frontmatter.slideshowImages}
       />
     </Layout>
   );
@@ -92,13 +65,6 @@ export const refugeeCrisisPageQuery = graphql`
       html
       frontmatter {
         title
-        slideshowImages {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
       }
     }
   }

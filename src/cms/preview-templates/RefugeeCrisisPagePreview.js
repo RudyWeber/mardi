@@ -1,22 +1,13 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { RefugeeCrisisPageTemplate } from "../../templates/refugee-crisis-page";
-import { HTMLContent } from "../../components/Content";
+import { CustomRefugeeCrisisPageTemplate } from "./customPreviews/CustomRefugeeCrisisTemplate";
 
-const RefugeeCrisisPagePreview = ({ entry, widgetFor }) => {
-  const data = entry.getIn(["data"]);
-  const { title, slideshowImages } = data.toJS ? data.toJS() : data;
-  const body = widgetFor("body");
-
-  return (
-    <RefugeeCrisisPageTemplate
-      title={title}
-      content={body}
-      slideshowImages={slideshowImages}
-      contentComponent={HTMLContent}
-    />
-  );
-};
+const RefugeeCrisisPagePreview = ({ entry, widgetFor }) => (
+  <CustomRefugeeCrisisPageTemplate
+    title={entry.getIn(["data", "title"])}
+    content={widgetFor("body")}
+  />
+);
 
 RefugeeCrisisPagePreview.propTypes = {
   entry: PropTypes.shape({
