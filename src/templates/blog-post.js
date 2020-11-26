@@ -52,17 +52,17 @@ const BlogPost = ({ data }) => {
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
-            <meta name="og:title" content={`${post.frontmatter.description}`} />
+            <meta property="og:title" content={`${post.frontmatter.title}`} />
             <meta
               name="description"
               content={`${post.frontmatter.description}`}
             />
             <meta
-              name="og:description"
+              property="og:description"
               content={`${post.frontmatter.description}`}
             />
             <meta
-              name="og:image"
+              property="og:image"
               content={`${post.frontmatter.featuredimage.childImageSharp.fluid.src}`}
             />
           </Helmet>
