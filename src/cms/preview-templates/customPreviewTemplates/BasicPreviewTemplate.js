@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 import Content from "../../../components/Content";
 
-export const CustomBlogPostTemplate = ({
+export const BasicPreviewTemplate = ({
   title,
   content,
   contentComponent,
@@ -27,7 +27,7 @@ export const CustomBlogPostTemplate = ({
   );
 };
 
-CustomBlogPostTemplate.propTypes = {
+BasicPreviewTemplate.propTypes = {
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,

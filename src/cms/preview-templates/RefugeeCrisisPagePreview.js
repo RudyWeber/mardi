@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { CustomRefugeeCrisisPageTemplate } from "./customPreviews/CustomRefugeeCrisisTemplate";
+import { BasicPreviewTemplate } from "./customPreviewTemplates/BasicPreviewTemplate";
 
 const RefugeeCrisisPagePreview = ({ entry, widgetFor }) => (
-  <CustomRefugeeCrisisPageTemplate
+  <BasicPreviewTemplate
     title={entry.getIn(["data", "title"])}
     content={widgetFor("body")}
   />

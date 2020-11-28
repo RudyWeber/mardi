@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { FaqPageTemplate } from "../../templates/faq-page";
+import { BasicPreviewTemplate } from "./customPreviewTemplates/BasicPreviewTemplate";
 
 const FaqPagePreview = ({ entry, widgetFor }) => (
-  <FaqPageTemplate
+  <BasicPreviewTemplate
     title={entry.getIn(["data", "title"])}
     content={widgetFor("body")}
   />

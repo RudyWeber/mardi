@@ -1,10 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { CustomBlogPostTemplate } from './customPreviews/CustomBlogPostTemplate'
+import { BasicPreviewTemplate } from './customPreviewTemplates/BasicPreviewTemplate'
 
 const BlogPostPreview = ({ entry, widgetFor }) => {
   return (
-    <CustomBlogPostTemplate
+    <BasicPreviewTemplate
       content={widgetFor('body')}
       description={entry.getIn(['data', 'description'])}
       title={entry.getIn(['data', 'title'])}

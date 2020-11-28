@@ -1,9 +1,9 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { HowYouCanHelpPageTemplate } from "../../templates/how-you-can-help-page";
+import { BasicPreviewTemplate } from "./customPreviewTemplates/BasicPreviewTemplate";
 
 const VolunteerPagePreview = ({ entry, widgetFor }) => (
-  <HowYouCanHelpPageTemplate
+  <BasicPreviewTemplate
     title={entry.getIn(["data", "title"])}
     content={widgetFor("body")}
   />
