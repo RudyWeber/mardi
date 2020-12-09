@@ -5,11 +5,11 @@ title: How you can help
 ---
 We know in situations this complicated, heart-breaking, and vast it’s easy to feel hopeless and also useless but this could not be less true. The smallest act of kindness can go so far and may be the difference between a refugee surviving this difficult time in their life or becoming another tragic headline.
 
-To help, you can do one or more of these 3 things:
+To help, you can give 1 of 3 things:
 
-# Volunteer
+# *1. YOUR TIME*
 
-#### Medical
+#### Medical volunteers
 
 * all staff groups needed including for example physiotherapists and mental health professionals
 * students welcome but must be supervised by qualified staff (will provide assistance to the team only)
@@ -18,31 +18,25 @@ To help, you can do one or more of these 3 things:
 
 * Pashto, Farsi, Dari, Arabic, Tigrinya, Amharic, Oroma, Somali, German, Italian, English, French
 
-#### Clinic co-ordinators
+#### Clinic coordinators
 
 * must be confident working with a crowd and language/cultural barriers
 * must be happy to help out with whatever tasks arise (helping medical teams with dressings, pharmacy runs, phone calls/advocacy, etc.)
 
-#### How to join
+#### How to sign up
 
-* To sign up, email [info@MARDi.org.uk](mailto:info@MARDi.org.uk)
-* Join the [Facebook group](https://www.facebook.com/groups/639221036512761/) for volunteer opportunity updates
-* Our new MARDi@Home project offers general support to refugees in the UK in whatever way needed, for example:
+* **Email [info@MARDi.org.uk](mailto:info@MARDi.org.uk)** - you can also join the [Facebook group](https://www.facebook.com/groups/639221036512761/) for volunteer opportunity updates
+* Our new **MARDi@Home** project offers general support to refugees in the UK in whatever way needed, for example:
 
-  * Signing up with a GP
-  * Understanding official correspondence; letters, emails, etc
-  * Accessing legal help
-  * Accessing foodbank services
-  * Help with housing issues; contacting refugee housing support services and speaking with councils, housing authorities
+  * Signing up with a GP, accessing legal help and social services, i.e. foodbanks, job centres
+  * Understanding official letters, emails, etc
   * Email [home@MARDi.org.uk](mailto:home@MARDi.org.uk) to get involved in your area
 
-# Donate: Financial and medical supplies
+# *2. DONATIONS*
 
-We run solely on donations, every penny of which goes to refugees as our staff is voluntary.
+#### Financial and medical supplies
 
-To help us keep this vital service running click below to donate.
-
-A box of paracetamol is 25p so no amount is too small.
+We run solely on donations. A box of paracetamol is 25p so no amount is too small. To help us keep this vital service running click below to donate.
 
 <center>
 <form action="https://www.paypal.com/cgi-bin/webscr"
@@ -61,31 +55,25 @@ A box of paracetamol is 25p so no amount is too small.
 </form>
 </center>
 
-# Spread awareness
+# *3. YOUR VOICE*
 
-Help us keep spreading the news of this unforgivable situation far and wide as the governments and press of Europe try to hide their actions.
+Help us spread the news of this unforgivable situation far and wide as the governments and press of Europe try to hide their actions.
 
 Places to keep up to date:
 
-#### Our social media: News from Paris
+##### News from Paris: MARDi social media
 
-* [Facebook group](https://www.facebook.com/groups/639221036512761/)
-* [Facebook page](https://www.facebook.com/MARDi.france2019/)
-* [Instagram](https://www.instagram.com/mardi.france2019/)
+* [MARDi: Facebook](https://www.facebook.com/MARDi.france2019/)
+* [MARDI: Instagram](https://www.instagram.com/mardi.france2019/)
 
-#### Seawatch: News from the Mediterranean (Crossings of people from Africa to Europe via Libya)
+##### News from the Mediterranean (Crossings of people from Africa to Europe via Libya)
 
-* [Facebook](https://www.facebook.com/seawatchprojekt/)
-* [Instagram](https://www.instagram.com/mardi.france2019/)
-* [Website](https://sea-watch.org/en/)
+[Seawatch](https://www.instagram.com/seawatchcrew/)
 
-#### Donate 4 Refugees: News from the rest of Europe
+##### News from the rest of Europe
 
-* [Facebook](https://www.facebook.com/Donate4Refugees.org/)
-* [Instagram](https://www.instagram.com/donate4refugees/)
-* [Website](https://donate4refugees.org/)
+[Donate 4 Refugees](https://www.facebook.com/Donate4Refugees.org/)
 
-#### Detention Action: News from the UK
+##### News from the UK
 
-* [Facebook](https://www.facebook.com/pg/DetentionAction/posts/)
-* [Website](https://detentionaction.org.uk)
+[Detention Action](https://www.facebook.com/pg/DetentionAction/posts/?ref=page_internal)
