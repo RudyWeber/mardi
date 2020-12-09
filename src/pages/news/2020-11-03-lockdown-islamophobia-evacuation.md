@@ -9,7 +9,7 @@ description: >-
 
   Word of a looming evacuation spreads through the camps as police vans are seen watching from the periphery once again, meanwhile failing to act on reports of regular assaults on the refugee population.
 featuredpost: true
-featuredimage: /img/paris-camp-cover-image.jpg
+featuredimage: /img/image1-30.jpeg
 ---
 At last count, there are now over 2000 people living in the Paris Refugee Camps.
 
