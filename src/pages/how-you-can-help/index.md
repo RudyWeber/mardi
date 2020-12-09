@@ -61,19 +61,19 @@ Help us spread the news of this unforgivable situation far and wide as the gover
 
 Places to keep up to date:
 
-##### News from Paris: MARDi social media
+#### News from Paris: MARDi social media
 
 * [MARDi: Facebook](https://www.facebook.com/MARDi.france2019/)
 * [MARDI: Instagram](https://www.instagram.com/mardi.france2019/)
 
-##### News from the Mediterranean (Crossings of people from Africa to Europe via Libya)
+#### News from the Mediterranean (Crossings of people from Africa to Europe via Libya)
 
 [Seawatch](https://www.instagram.com/seawatchcrew/)
 
-##### News from the rest of Europe
+#### News from the rest of Europe
 
 [Donate 4 Refugees](https://www.facebook.com/Donate4Refugees.org/)
 
-##### News from the UK
+#### News from the UK
 
 [Detention Action](https://www.facebook.com/pg/DetentionAction/posts/?ref=page_internal)
