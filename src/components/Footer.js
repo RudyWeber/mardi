@@ -13,7 +13,7 @@ const Footer = class extends React.Component {
         </div>
         <div className="content has-text-centered">
           <div className="container" style={{ paddingBottom: 10 }}>
-            Copyright © MARDi 2019 - {currentYear}. All Rights Reserved.
+            Copyright © MARDi 2019 - {currentYear}. All Rights Reserved. — SIREN 892120353
           </div>
         </div>
       </footer>
