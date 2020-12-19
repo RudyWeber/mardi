@@ -1,7 +1,7 @@
 ---
 templateKey: faq-page
 path: /faq
-title: FAQ
+title: FAQs
 ---
 # **What is MARDi?**
 

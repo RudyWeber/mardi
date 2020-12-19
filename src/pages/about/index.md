@@ -1,6 +1,6 @@
 ---
-templateKey: who-we-are-page
-path: /who-we-are
+templateKey: about
+path: /about
 title: Who we are
 ---
 MARDi was formally created in January 2019 by Harriet Crook, a Junior Doctor in the UK, and Elena Lydon, an experienced Emergency Department Nurse in Ireland, joined shortly after by Harriet Payne, a Paediatric Intensive Care Nurse in the UK. Prior to this we had mostly worked in Calais and Paris and found a major gap in the healthcare provision for refugees in the Paris Refugee Camps. At this point, supported by friends who we regularly volunteered with supporting refugees stranded in camps across Europe, we decided to organise.

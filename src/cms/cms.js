@@ -4,9 +4,9 @@ import cloudinary from "netlify-cms-media-library-cloudinary";
 
 import slideshowWidget from "./customWidgets/slideshow";
 
-import WhoWeArePagePreview from "./preview-templates/WhoWeArePagePreview";
+import AboutPagePreview from "./preview-templates/AboutPagePreview";
 import WhatWeDoPagePreview from "./preview-templates/WhatWeDoPagePreview";
-import HowYouCanHelpPagePreview from "./preview-templates/HowYouCanHelpPagePreview";
+import GetInvolvedPagePreview from "./preview-templates/GetInvolvedPagePreview";
 import RefugeeCrisisPagePreview from "./preview-templates/RefugeeCrisisPagePreview";
 import FaqPagePreview from "./preview-templates/FaqPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
@@ -20,9 +20,9 @@ CMS.registerEditorComponent(slideshowWidget);
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("contact-us", ContactUsPagePreview);
-CMS.registerPreviewTemplate("who-we-are", WhoWeArePagePreview);
+CMS.registerPreviewTemplate("about", AboutPagePreview);
 CMS.registerPreviewTemplate("what-we-do", WhatWeDoPagePreview);
 CMS.registerPreviewTemplate("refugee-crisis", RefugeeCrisisPagePreview);
-CMS.registerPreviewTemplate("how-you-can-help", HowYouCanHelpPagePreview);
+CMS.registerPreviewTemplate("get-involved", GetInvolvedPagePreview);
 CMS.registerPreviewTemplate("faq", FaqPagePreview);
 CMS.registerPreviewTemplate("news", BlogPostPreview);
