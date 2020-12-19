@@ -3,18 +3,22 @@ templateKey: blog-post
 title: LOCKDOWN 2.0, ISLAMOPHOBIA, EVACUATION
 date: 2020-11-03T16:04:10.000Z
 description: >-
-  At last count, there are now over 2000 people living in the Paris Refugee
-  Camps.
+  PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 03.11.2020 – WEEKLY GROUND TEAM
+  REPORT
+
+
+  At last count, there are now over 2000 people living in the Paris Refugee Camps.
 
 
   Word of a looming evacuation spreads through the camps as police vans are seen watching from the periphery once again, meanwhile failing to act on reports of regular assaults on the refugee population.
 featuredpost: true
 featuredimage: /img/image1-30.jpeg
 ---
+##### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 03.11.2020 – WEEKLY GROUND TEAM REPORT
+
 At last count, there are now over 2000 people living in the Paris Refugee Camps.
 
 Word of a looming evacuation spreads through the camps as police vans are seen watching from the periphery once again, meanwhile failing to act on reports of regular assaults on the refugee population. 
-
 
 Who do you protect?
 
