@@ -5,7 +5,7 @@ title: How can you help?
 ---
 We know in situations this complicated, heart-breaking, and vast it’s easy to feel hopeless and also useless but this could not be less true. The smallest act of kindness can go so far and may be the difference between a refugee surviving this difficult time in their life or becoming another tragic headline.
 
-To help, you can give 1 of 3 things:
+To help, you can give any of these 3 things:
 
 # *1. YOUR TIME*
 
