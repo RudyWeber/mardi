@@ -7,11 +7,7 @@ The Paris Refugee Camps are some of the least well-known camps in Europe. Most p
 
 Since the destruction of the Calais Jungle in October 2016 the 10,000 refugees who lived there were forcibly dispersed across France and nearby countries, thousands of whom made their way to Paris. The Paris Refugee Camps are unofficial settlements home to upto 4000 families, unaccompanied children, women and men living in tents and makeshift shacks with limited access to healthcare. Many of these refugees have had asylum claims rejected elsewhere in Europe and are, therefore “Dublin”. This racist and ineffective EU law, the [Dublin Regulation](https://www.unhcr.org/4a0d6a6710.pdf), means these people cannot access government help in France for around 18 months, leaving them homeless with no social support and limited access to healthcare.
 
-
-
 > **“No one leaves home unless home is the mouth of a shark”**  *Warsan Shire, [Home](https://www.youtube.com/watch?v=nI9D92Xiygo&ab_channel=GarrettMogge)*
-
-
 
 [[slideshow (/img/image1-30.jpeg,/img/image4-36.jpeg,/img/image8-44.jpeg,/img/home-jumbotron.jpg)]]
 
@@ -19,12 +15,15 @@ The government takes no responsibility for these camps, only providing minimal s
 
 This never-ending cycle achieves nothing but to cause even more mental and physical damage to the refugee population here and does not prevent new people arriving, as to be a refugee is not a choice, no amount of hostility or aggression will stop people seeking safety as it cannot be worse than what they are running from. Due to this lack of action by the state, most of the support for refugees living in the Paris Refugee Camps comes from grassroots refugee support organisations and NGOs including food, clothing, tents, sleeping bags, medical aid, and social and legal help. This is not only unfair but unnecessary. The state is obliged and able to provide this care but is choosing not to, as seen in many countries across the world today — the hostile face of Europe.
 
+
+
 Some of the other organisations in Paris:
 
 * [Solidarité Migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/)
+* [Team du Coeur](https://www.instagram.com/teamducoeur/)
+* [Watizat](https://watizat.org/)
 * [Chaubertin](https://chaubertin.org)
 * [Utopia 56](http://www.utopia56.com/en/our-missions-in-paris)
-* [Watizat](https://watizat.org/)
 * [FTDA](https://www.france-terre-asile.org/)
 * [Samusocial](https://www.samusocial.paris/)
 * [Médecins du Monde](https://www.medecinsdumonde.org/fr/contact/ile-de-france)
