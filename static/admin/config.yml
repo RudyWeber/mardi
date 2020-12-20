@@ -1,7 +1,7 @@
 publish_mode: editorial_workflow
 
 site_url: https://mardi.org.uk
-logo_url: https://mardi.ork.uk/img/logo.jpeg
+logo_url: https://mardi.org.uk/img/logo.jpeg
 
 local_backend: true
 
