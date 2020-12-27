@@ -1,15 +1,10 @@
 ---
 templateKey: blog-post
-title: "PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020 - VOLUNTEER
-  DIARIES: VOLUME 1.0 (BECCI FERGUSON - EMERGENCY NURSE, UK)"
+title: "EVACUATION DE MERDE: THE PARIS REFUGEE CAMPS BURNED WHILE THE WORLD WATCHED"
 date: 2020-12-27T19:37:06.663Z
-description: >-
-  The evacuation of the Paris Refugee Camps made international news in November
-  2020 due to unprecedented levels of violence and abuse of refugees and
-  volunteers by the police. 
-
-
-  One month on from the violent evacuation in Paris, that finally turned the eyes of the world very briefly to the situation there, it’s time to reflect, especially as 2020 ends.
+description: "PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020 - VOLUNTEER
+  DIARIES: VOLUME 1.0, EVACUATION DE MERDE (BECCI FERGUSON - EMERGENCY NURSE,
+  UK)"
 featuredpost: true
 featuredimage: /img/img-20201117-wa0023.jpg
 ---
