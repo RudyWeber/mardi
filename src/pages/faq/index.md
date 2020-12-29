@@ -29,11 +29,17 @@ Role includes supporting the medics in clinic (for example, organising a crowd, 
 
 **What is a typical day like for MARDi volunteers?**
 
-Volunteers arrive at our warehouse at 9am (hours differ in summer when the day typically runs a few hours later). There is a team briefing and medical supplies are prepared for the day ahead. The camps are reached on foot, by bus or tram and volunteers perform paramedic-style assessments and treat where possible, or refer to other services where appropriate. After a lunch break in a local cafe, work continues in the camps until approximately 5pm after which time the whole team returns to the warehouse for debriefing and any remaining warehouse work. More than one camp may be visited in a day. Most of the day is spent outside, regardless of weather conditions – thermals are advised in winter.
+Volunteers arrive at the warehouse at 9am. There is a team briefing over coffee and medical supplies are prepared for the day ahead. The camps are then reached on foot, by bus or tram.
+
+Medical volunteers perform paramedic-style assessments and treat where possible, or refer to other services where appropriate. Non-medical volunteers run the clinic and support the medics, for example, organising the line, collecting essential healthcare data, carrying out clinic admin (phone calls, letter writing, etc), helping with any non-medical issues (e.g. directing to day centres) +/- translating.
+
+After lunch in a local cafe, work continues in the camps until approximately 5pm after which the team returns to the warehouse for debriefing and any remaining warehouse work. More than one camp may be visited in a day and most of the day is spent outside, regardless of weather conditions – thermals are advised in winter.
+
+Some days are spent in the warehouse managing stock; these are non-clinical days therefore generally more relaxed (kitchen and bathroom facilities available).
 
  **Is there a minimum time commitment for volunteers?**
 
- We suggest a minimum commitment of 3 days to get the most out of your placement.
+ We suggest a minimum commitment of 3 days to get the most out of your placement but really the team works best the longer they work together. 
 
 **Can MARDi fund my travel and accommodation?**
 
