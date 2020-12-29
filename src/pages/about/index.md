@@ -13,10 +13,10 @@ Today, MARDi has grown into an international volunteer collective of over 1000 m
 
 Our Core Team:
 
-* Harriet Crook - Co-Founder, Paris Project Co-ordinator, MARDi@Home Co-ordinator, *Doctor*
+* Harriet Crook - Co-Founder, Paris Project Coordinator, MARDi@Home Coordinator, *Doctor*
 * Elena Lydon - Co-Founder, *Nurse*
-* Harriet Payne: Volunteer Co-ordinator, MARDi@Home Co-ordinator, *Nurse*
-* Katy Last: Fund-raising and Financial Co-ordinator, *Nurse*
+* Harriet Payne: Volunteer Coordinator, MARDi@Home Coordinator, *Nurse*
+* Katy Last: Fund-raising and Financial Coordinator, *Nurse*
 * Ashley Colla-Hafer: Paris Link, *Nurse*
 
 We believe every human being is equal and we must fight any system that challenges this.
