@@ -51,7 +51,7 @@ No. Medical volunteers need to organise their own medical indemnity insurance, e
 
 **Where can I stay in Paris?**
 
-We strongly advise volunteers stay in Saint Denis, near the MARDi warehouse (Rue du Landy, 93200) where you will start and end your day. There are man[](https://www.airbnb.com/saint-denis-france/stays)y Airbnbs the area but Saint Denis does have good metro links if you wish to stay elsewhere. MARDi days, especially in the winter, can be long and tiring and previous volunteers who have stayed in central Paris have struggled with the journey either end of the day.
+We strongly advise volunteers stay in Saint Denis, near the MARDi warehouse (Rue du Landy, 93200) where you will start and end your day. There are man[](https://www.airbnb.com/saint-denis-france/stays)y Airbnbs in the area but Saint Denis does have good metro links if you wish to stay elsewhere. MARDi days, especially in the winter, can be long and tiring and previous volunteers who have stayed in central Paris have struggled with the journey either end of the day.
 
 **What do I need to bring with me when I visit the camps?**
 
