@@ -49,3 +49,7 @@ Doing this work made me all too aware of the tiny intricacies the European gover
 #### <center> *But where there are devils there are angels!* <center/> 
 
 Doing this work I met the most incredible, selfless, innovative, like-minded people who are dedicating their work and their lives to ensure refugees feel safe and are treated with respect and kindness. It is easy to get enveloped in all the negativity and feel like your efforts are futile when the governments seem to be working against the ideal. But then you find yourself surrounded with all these people with hearts bigger than their ribcages can manage, and it gives you a little hope for the future.
+
+
+
+***To get involved email info@MARDi.org.uk.***
