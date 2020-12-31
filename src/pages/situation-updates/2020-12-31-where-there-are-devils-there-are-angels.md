@@ -2,14 +2,15 @@
 templateKey: blog-post
 title: WHERE THERE ARE DEVILS THERE ARE ANGELS
 date: 2020-12-31T11:34:56.483Z
-description: "PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 13.11.2020 - VOLUNTEER
-  DIARIES: VOLUME 1.1 (TAMSIN NICHOLAS: EMERGENCY NURSE, UK)"
+description: >
+  PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 13.11.2020 - VOLUNTEER DIARIES:
+  VOLUME 1.1 (TAMSIN NICHOLAS: EMERGENCY NURSE, UK)
 featuredpost: true
 featuredimage: /img/img-20201025-wa0025.jpg
 ---
 ##### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 13.11.2020 - VOLUNTEER DIARIES: VOLUME 1.1
 
-##### Tamsin Nicholas - EMERGENCY NURSE, UK
+##### TAMSIN NICHOLAS - EMERGENCY NURSE, UK
 
 #### My name is Tamsin, I have just returned from 2 weeks volunteering with MARDi. In the UK I am a Senior Staff nurse and work in an Emergency Department in London, but wanted to further my experience working with refugees and in the humanitarian sector.
 
