@@ -11,9 +11,7 @@ featuredimage: /img/img-20201025-wa0025.jpg
 
 ##### Tamsin Nicholas - EMERGENCY NURSE, UK
 
-# WHERE THERE ARE DEVILS THERE ARE ANGELS
-
-##### My name is Tamsin, I have just returned from 2 weeks volunteering with MARDi. In the UK I am a Senior Staff nurse and work in an Emergency Department in London, but wanted to further my experience working with refugees and in the humanitarian sector.
+#### My name is Tamsin, I have just returned from 2 weeks volunteering with MARDi. In the UK I am a Senior Staff nurse and work in an Emergency Department in London, but wanted to further my experience working with refugees and in the humanitarian sector.
 
 ![](/img/img-20201025-wa0025.jpg)
 
