@@ -11,9 +11,7 @@ featuredimage: /img/img-20201025-wa0025.jpg
 
 ##### Tamsin Nicholas - EMERGENCY NURSE, UK
 
-# WHERE THERE ARE DEVILS THERE ARE ANGELS
-
-##### My name is Tamsin, I have just returned from 2 weeks volunteering with MARDi. In the UK I am a Senior Staff nurse and work in an Emergency Department in London, but wanted to further my experience working with refugees and in the humanitarian sector.
+#### My name is Tamsin, I have just returned from 2 weeks volunteering with MARDi. In the UK I am a Senior Staff nurse and work in an Emergency Department in London, but wanted to further my experience working with refugees and in the humanitarian sector.
 
 ![](/img/img-20201025-wa0025.jpg)
 
@@ -37,7 +35,7 @@ There was one lovely young man who came to see us every day, always laughing and
 
 We were quite taken aback as we had no idea he was mentally unwell. It became apparent that this strong, confident man, who was so well-liked within the camp, was having his own silent battle with his mental health. With the help of our trusted translating volunteers we were able to get him some mental health support with follow up appointments.
 
-#### <center> It transpired the Taliban had shot his brother and mother dead when he was 8. An unwelcome reality check into what these people were fleeing from. <center/>
+#### <center> *It transpired the Taliban had shot his brother and mother dead when he was 8. An unwelcome reality check into what these people were fleeing from.* <center/>
 
 We cleaned his wounds every day, sometimes he had new ones, sometimes it was redressing the old ones. Near the end of my time he came to me and I was fully expecting an arm full of fresh wounds but instead he just presented me with his nicely healing insect bite! I hope we had shown him that support is out there for him, and got him moving in the right direction.
 
@@ -49,6 +47,6 @@ I soon loved the routine of the day.  New volunteers would arrive, we would st
 
 Doing this work made me all too aware of the tiny intricacies the European governments have put into place to make this process as hard as possible for people seeking asylum.
 
-#### <center> But where there are devils there are angels! <center/> 
+#### <center> *But where there are devils there are angels!* <center/> 
 
 Doing this work I met the most incredible, selfless, innovative, like-minded people who are dedicating their work and their lives to ensure refugees feel safe and are treated with respect and kindness. It is easy to get enveloped in all the negativity and feel like your efforts are futile when the governments seem to be working against the ideal. But then you find yourself surrounded with all these people with hearts bigger than their ribcages can manage, and it gives you a little hope for the future.
