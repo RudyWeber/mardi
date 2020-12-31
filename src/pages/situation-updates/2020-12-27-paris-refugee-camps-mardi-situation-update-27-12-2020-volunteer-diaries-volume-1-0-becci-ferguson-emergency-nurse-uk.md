@@ -3,16 +3,15 @@ templateKey: blog-post
 title: EVACUATION DE MERDE
 date: 2020-12-27T19:37:06.663Z
 description: "PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020 - VOLUNTEER
-  DIARIES: VOLUME 1.0, EVACUATION DE MERDE (BECCI FERGUSON - EMERGENCY NURSE,
-  UK)"
+  DIARIES: VOLUME 1.0 (BECCI FERGUSON - EMERGENCY NURSE, UK)"
 featuredpost: true
 featuredimage: /img/img-20201117-wa0023.jpg
 ---
 The evacuation of the Paris Refugee Camps made international news in November 2020 due to unprecedented levels of violence and abuse of refugees and volunteers by the police. 
 
-###### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020
+#### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020 - VOLUNTEER DIARIES: VOLUME 1.0
 
-###### VOLUNTEER DIARIES: VOLUME 1.0, BECCI FERGUSON - EMERGENCY NURSE, UK
+#### BECCI FERGUSON - EMERGENCY NURSE, UK
 
 ### One month on from the violent evacuation in Paris, that finally turned the eyes of the world very briefly to the situation there, it’s time to reflect, especially as 2020 ends.
 
@@ -24,11 +23,7 @@ I was the team leader for the MARDi clinic; providing first aid, over the counte
 
 Rumours began to circulate, after President Macron announced a second national lockdown of France, of what would become of the large camp.  It was impossible to socially distance, only two clean water taps served the whole camp and there were known positive cases of COVID who were unable to isolate safely due to living in tents and temporary structures.  The residents of the camp (mostly Afghan with some Somalians) were all asking to be taken to a safe place to stay.  Initially the only change was a police presence at the edge of the camp, scaring people from attending medical and social appointments for fear of punishment- but no news of any accommodation.
 
-
-
 > ***Eventually a date of 17th November 2020 was announced for the clearance of the camp by many sources.***
->
->
 
 On the night of 17th November, the 70th camp evacuation since 2015, volunteer associations from around Paris arrived to help the residents to be ready to leave calmly with police, and to try to salvage tents and blankets- which are usually burnt and destroyed by the police.
 
@@ -62,11 +57,7 @@ All of the buses left the camp. The CRS formed a line in their armour with shiel
 
 The CRS then began firing tear gas bombs, flashballs and charging at the group.  People ran in any direction they could in panic.  They were chased across this area of Paris for several hours, after no sleep, no food, no water, and they had no place to go.
 
-
-
 > ***People fleeing places of war, faced war on the streets of Paris.***  
->
->
 
 Those left behind were people we knew to suffer from poor mental and physical health.  They had been too stressed by the violence of the police in the bus queue to join early and had now missed their chance of a place to sleep.  The camp was destroyed so their previous tent was also not an option.
 
@@ -78,10 +69,6 @@ Currently most of those left on the street are now housed by charities and assoc
 
 This circular process of evacuations and temporary accommodation don’t work.  France and Europe need to find a way to house people safely while their asylum is processed.  Allow them to work or study and live their lives instead of spending days with nothing to do but wait.  The saddest thing is watching young people having their youth wasted and losing hope.  
 
-
-
 > ***The violence of November in Paris is something I will never forget.  It was the very worst treatment of humans and denial of human rights I have ever seen.***
->
->
 
 If you want to help, you can use your money, your time or your voice to raise awareness of Paris.
