@@ -9,9 +9,7 @@ featuredimage: /img/img-20201117-wa0023.jpg
 ---
 The evacuation of the Paris Refugee Camps made international news in November 2020 due to unprecedented levels of violence and abuse of refugees and volunteers by the police. 
 
-##### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020 - VOLUNTEER DIARIES: VOLUME 1.0
-
-##### BECCI FERGUSON - EMERGENCY NURSE, UK
+##### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 27.12.2020 - VOLUNTEER DIARIES: VOLUME 1.0 - BECCI FERGUSON: EMERGENCY NURSE, UK
 
 ### One month on from the violent evacuation in Paris, that finally turned the eyes of the world very briefly to the situation there, it’s time to reflect, especially as 2020 ends.
 
