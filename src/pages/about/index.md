@@ -11,14 +11,12 @@ The Paris Refugee Crisis, as part of the wider European Refugee Crisis, is a del
 
 Today, MARDi has grown into an international volunteer collective of over 1000 members run by a small team from several countries across Europe and North America. We work full-time medical jobs in these various countries whilst running the MARDi clinic with our ever-growing volunteer staff bank on a rolling rota and are expanding our services to the UK and other European countries through our MARDi@Home project which focuses on supporting refugees newly settled to our countries in whatever way is needed. We are registered in France (SIREN no. 892120353).
 
-![]()
-
 Our Core Team:
 
 * Harriet Crook - Co-Founder, Paris Project Coordinator, MARDi@Home Coordinator, *Doctor*
 * Elena Lydon - Co-Founder, *Nurse*
 * Harriet Payne: Volunteer Coordinator, MARDi@Home Coordinator, *Nurse*
-* Katy Last: Fund-raising and Financial Coordinator, *Nurse*
+* Katy Last: Fundraising and Financial Coordinator, *Nurse*
 * Ashley Colla-Hafer: Paris Link, *Nurse*
 
 We believe every human being is equal and we must fight any system that challenges this.
