@@ -74,6 +74,10 @@ Places to keep up to date:
 
 [Donate 4 Refugees](https://www.facebook.com/Donate4Refugees.org/)
 
+[Choose Love](https://www.instagram.com/chooselove/)
+
 #### News from the UK
+
+[Safe Passage](https://www.facebook.com/SafePassageInt)
 
 [Detention Action](https://www.facebook.com/pg/DetentionAction/posts/?ref=page_internal)
