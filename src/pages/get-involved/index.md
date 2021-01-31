@@ -59,8 +59,6 @@ We run solely on donations. A box of paracetamol is 25p so no amount is too smal
 
 .
 
-
-
 # *3. YOUR VOICE*
 
 Help us spread the news of this unforgivable situation far and wide as the governments and press of Europe try to hide their actions.
@@ -71,9 +69,9 @@ Help us spread the news of this unforgivable situation far and wide as the gover
 
 Follow us on [ Facebook](https://www.facebook.com/MARDi.france2019/) and [Instagram](https://www.instagram.com/mardi.france2019/)
 
-#### News from the Mediterranean 
+#### News from the Mediterranean
 
-###### (Crossings of people from Africa to Europe via Libya)
+##### (Crossings of people from Africa to Europe via Libya)
 
 [Seawatch](https://www.instagram.com/seawatchcrew/)
 
