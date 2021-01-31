@@ -69,9 +69,7 @@ Help us spread the news of this unforgivable situation far and wide as the gover
 
 Follow us on [ Facebook](https://www.facebook.com/MARDi.france2019/) and [Instagram](https://www.instagram.com/mardi.france2019/)
 
-#### News from the Mediterranean
-
-##### (Crossings of people from Africa to Europe via Libya)
+#### News from the Mediterranean (crossings from Africa to Europe via Libya)
 
 [Seawatch](https://www.instagram.com/seawatchcrew/)
 
