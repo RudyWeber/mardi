@@ -23,7 +23,7 @@ Every second of working in the camps was an emotional rollercoaster, in some way
 
 .
 
-#### <center> *Because if you’re not fortunate enough to be born in a country that’s safe to live in, you have to jump through hoops just to survive.* </center>
+#### <center> "*Because if you’re not fortunate enough to be born in a country that’s safe to live in, you have to jump through hoops just to survive."* </center>
 
 .
 
