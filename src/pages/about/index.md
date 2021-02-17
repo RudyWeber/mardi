@@ -19,6 +19,10 @@ Our Core Team:
 * Katy Last: Fundraising and Financial Coordinator, *Nurse*
 * Ashley Colla-Hafer: Paris Link, *Nurse*
 
+![](/img/kash.jpg)
+
+
+
 We believe every human being is equal and we must fight any system that challenges this.
 
 Join us.
