@@ -39,7 +39,7 @@ I was surprised to see a few friendly faces that I’d already met on my first v
 
 This cycle of inhumane treatment of human beings has not changed since my first exposure over a year ago. I regularly think back to the people I have met during my time working with MARDi. I have so many fond memories and conversations to reflect on, dulled by the fear that some of the individuals I met will still be stuck in the same situation. I hope that one day we will not need organisations like MARDi to protect thousands of individuals’ human rights.
 
-<center> **Inshallah.** </center>
+<center> Inshallah. </center>
 
 ![](/img/eklfjjew.jpg)
 
