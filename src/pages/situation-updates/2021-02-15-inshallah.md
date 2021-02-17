@@ -23,7 +23,7 @@ Every second of working in the camps was an emotional rollercoaster, in some way
 
 .
 
-<center> Because if you’re not fortunate enough to be born in a country that’s safe to live in, you have to jump through hoops just to survive. </center>
+#### <center> *Because if you’re not fortunate enough to be born in a country that’s safe to live in, you have to jump through hoops just to survive.* </center>
 
 .
 
@@ -39,7 +39,7 @@ I was surprised to see a few friendly faces that I’d already met on my first v
 
 This cycle of inhumane treatment of human beings has not changed since my first exposure over a year ago. I regularly think back to the people I have met during my time working with MARDi. I have so many fond memories and conversations to reflect on, dulled by the fear that some of the individuals I met will still be stuck in the same situation. I hope that one day we will not need organisations like MARDi to protect thousands of individuals’ human rights.
 
-<center> Inshallah. </center>
+#### <center> Inshallah. </center>
 
 ![](/img/eklfjjew.jpg)
 
