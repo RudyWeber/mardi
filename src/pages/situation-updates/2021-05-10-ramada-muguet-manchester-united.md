@@ -9,9 +9,9 @@ featuredimage: /img/whatsapp-image-2021-04-05-at-15.48.26.jpeg
 ---
 ##### PARIS REFUGEE CAMPS: MARDi SITUATION UPDATE 01.05.2021 - VOLUNTEER DIARIES: VOLUME 2.1 - ASHLEY COLLA-HAFER (NURSE, USA)
 
-#### May 1 2021, Mid-Pandemic Clinic Day: 
+#### May 1 2021, Mid-Pandemic Clinic Day:
 
-#### We had a super crew today working at the warehouse. Two UK doctors, two international nurses, a translator and a physical therapist. 
+#### We had a super crew today working at the warehouse. Two UK doctors, two international nurses, a translator and a physical therapist.
 
 ![](/img/whatsapp-image-2021-04-05-at-15.48.26.jpeg)
 
@@ -25,6 +25,10 @@ As the day goes on, a line gathers as the center is waking up and coming alive. 
 
 As the afternoon passes, one of our regular French patients comes to request his weekly allotment of a medicated cream. From behind his back appears a small bouquet of lily of the valley. He has remembered that it is a tradition to pass hope and good wishes with the traditional ‘muguet’ to another. We only hope that today we can reciprocate right back.
 
+.
+
 It’s good to be here.
+
+.
 
 ***To get involved email info@MARDi.org.uk.***
