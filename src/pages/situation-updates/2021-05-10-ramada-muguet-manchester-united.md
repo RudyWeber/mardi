@@ -11,7 +11,7 @@ featuredimage: /img/whatsapp-image-2021-04-05-at-15.48.26.jpeg
 
 #### May 1 2021, Mid-Pandemic Clinic Day:
 
-#### We had a super crew today working at the warehouse. Two UK doctors, two international nurses, a translator and a physical therapist.
+We had a super crew today working at the warehouse. Two UK doctors, two international nurses, a translator and a physical therapist.
 
 ![](/img/whatsapp-image-2021-04-05-at-15.48.26.jpeg)
 
