@@ -9,7 +9,7 @@ featuredimage: /img/img_3020.jpeg
 ---
 ##### PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 15.07.2021 - VOLUNTEER DIARIES: VOLUME 1.4 - ROB STABLES (LOGISTICS, UK)
 
-#### Rob is a MARDi clinic coordinator. His experience in logistics and working in resource-poor settings has helped him manage the clinic for the past few months ensuring everything runs smoothly so the medical volunteers can focus on treating the residents of the Paris Refugee Camps.
+#### Rob is a MARDi clinic coordinator. His experience in logistics and work in resource-poor settings has helped him manage the clinic for the past few months ensuring everything runs smoothly so the medical volunteers can focus on treating the residents of the Paris Refugee Camps.
 
 ### Saturday
 
