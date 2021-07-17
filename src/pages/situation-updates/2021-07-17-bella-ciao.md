@@ -31,7 +31,7 @@ We’re in St Denis today. The first stop is at a squat of around 300 people, mo
 
 It’s the last day of the week and it’s another day with two stops. We’re at a squat in St Denis in the morning before moving over to another temporary accommodation hotel for the afternoon. It’s raining and there aren’t many people about so we see only a few of the occupants of this squat before heading over to the hotel. As the hotel accommodates families, we see children as well as adults. The Tajimly app for translators over the phone comes in handy, as we’ve had people from Bangladesh and Eastern Europe as well as the Arabic, Pashto and Dari speakers we more commonly work with. We see another ten people before heading back to the warehouse to restock the bags and that’s us done for the week!
 
-### Wednesday and Thursday
+### Wednesday + Thursday
 
 It’s the MARDi weekend! Bastille Day celebrations and a well-earned rest for the team.
 
