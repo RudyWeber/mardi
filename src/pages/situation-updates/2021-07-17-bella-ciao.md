@@ -3,7 +3,7 @@ templateKey: blog-post
 title: BELLA CIAO
 date: 2021-07-16T23:48:58.745Z
 description: "PARIS REFUGEE CAMPS: MARDI SITUATION UPDATE 15.07.2021 - VOLUNTEER
-  DIARIES: VOLUME 1.4 (ROB STABLES: LOGISTICS, SCOTLAN)"
+  DIARIES: VOLUME 1.4 (ROB STABLES: LOGISTICS, UK)"
 featuredpost: true
 featuredimage: /img/img_3020.jpeg
 ---
