@@ -13,8 +13,6 @@ featuredimage: /img/img_3020.jpeg
 
 #### Rob is a MARDi clinic coordinator. His experience in logistics and working in resource-poor settings has helped him manage the clinic for the past few months ensuring everything runs smoothly so the medical volunteers can focus on treating the residents of the Paris Refugee Camps.
 
-![]()
-
 ### Saturday
 
 Today we’re at one of the temporary accommodation hotels that we visit each week. This one has been set up for around 350 refugees. Social workers are on hand to encourage people to come over and we see 25 people. Our team today includes four doctors, a physiotherapist and a medical student to assist. We see a variety of problems including muscle and joints complaints, scabies, headaches, coughs and colds. Ahmad, our translator extraordinaire has most languages covered - Pashto, Dari, Arabic and French are the most spoken today and fortunately he speaks all of them, and more!
@@ -34,8 +32,6 @@ We’re in St Denis today. The first stop is at a squat of around 300 people, mo
 ### Tuesday
 
 It’s the last day of the week and it’s another day with two stops. We’re at a squat in St Denis in the morning before moving over to another temporary accommodation hotel for the afternoon. It’s raining and there aren’t many people about so we see only a few of the occupants of this squat before heading over to the hotel. As the hotel accommodates families, we see children as well as adults. The Tajimly app for translators over the phone comes in handy, as we’ve had people from Bangladesh and Eastern Europe as well as the Arabic, Pashto and Dari speakers we more commonly work with. We see another ten people before heading back to the warehouse to restock the bags and that’s us done for the week!
-
-![]()
 
 ### Wednesday and Thursday
 
