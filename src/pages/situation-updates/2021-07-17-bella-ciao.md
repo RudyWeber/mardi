@@ -13,7 +13,7 @@ featuredimage: /img/img_3020.jpeg
 
 ### Saturday
 
-Today we’re at one of the temporary accommodation hotels that we visit each week. This one has been set up for around 350 refugees. Social workers are on hand to encourage people to come over and we see 25 people. Our team today includes four doctors, a physiotherapist and a medical student to assist. We see a variety of problems including muscle and joints complaints, scabies, headaches, coughs and colds. Ahmad, our translator extraordinaire has most languages covered - Pashto, Dari, Arabic and French are the most spoken today and fortunately he speaks all of them, and more!
+Today we’re at one of the temporary accommodation hotels which we visit each week. This one has been set up for around 350 refugees. Social workers are on hand to encourage people to come over and we see 25 people. Our team today includes four doctors, a physiotherapist and a medical student to assist. We see a variety of problems including muscle and joints complaints, scabies, headaches, coughs and colds. Ahmad, our translator extraordinaire has most languages covered - Pashto, Dari, Arabic and French are the most spoken today and fortunately he speaks all of them, and more!
 
 ### Sunday
 
