@@ -25,7 +25,7 @@ The translators were a Godsend, and I couldn’t do my job without them. Ahmed\*
 
 So our job consisted of packing the clinic kit in the morning from the warehouse then travelling to where we were holding clinic that day. It could be a hotel where the displaced people are residing, for a while it was an Events Centre which wasn’t being used due to events being cancelled in the pandemic, sometimes a squat in a disused building and sometimes in a park or tents under a bridge in a street camp. I struggled to remember my rusty GCSE French and our translators helped with the many other languages spoken by these refugee communities.
 
-###### A few memorable experiences:
+#### A few memorable experiences:
 
 We were trying to explain something to an Afghan man about back pain in simplified terms and he said ‘you can explain it properly, I am a nurse’. How humbling to hear this and a strong reminder not to make assumptions about the people being treated. Many people living in the camps are more educated, qualified and lived fuller lives than us in their home countries before war or some other force displaced them to this tent which they now survive in.
 
@@ -35,7 +35,7 @@ A suicidal man who was haunted by the things he’d seen. Zakir our translator a
 
 Playing with a 2 year old girl in the camps. She was just like my nephew, liked to play the same games and draw on my hands! Her parents may have been through hell to get to France, but she was safe, happy, surrounded by ‘uncles and aunties’ who looked after her too and I could see she definitely felt loved.
 
-###### What I have learned about myself through this: 
+#### What I have learned about myself through this: 
 
 Where you are born is a matter of luck and privilege. Everyone I met was so grateful for help, the people in the camps cooked for us one day to make us feel welcome and just treating someone like a fellow human being goes a long way. We can all do something small to help if we want to, and we are more similar than different. I am so privileged to have the life I lead, and my education and medical skills and it is only right for me I use it to help others.
 
