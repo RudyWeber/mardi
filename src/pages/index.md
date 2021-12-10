@@ -10,7 +10,7 @@ mainpitch:
     you would like to help.
 heading: MARDi
 description: MARDi is an international network of healthcare professionals,
-  translators and support staff providing frontline front aid and emergency care
+  translators and support staff providing frontline first aid and emergency care
   for refugees and displaced people living in the Paris Refugee Camps, France.
   We work directly in the camps and with many other services to deliver
   all-round support for this refugee community. Since 2015, the number of
