@@ -28,11 +28,6 @@ We know in situations this complicated, emotional and large-scale it’s easy to
 ## How to sign up
 
 * **Email [info@MARDi.org.uk](mailto:info@MARDi.org.uk)** 
-* Our new **MARDi@Home** project offers general support to refugees in the UK in whatever way needed, for example:
-
-  * Signing up with a GP, accessing legal help and social services, i.e. foodbanks, job centres
-  * Understanding official letters, emails, etc
-  * Email [home@MARDi.org.uk](mailto:home@MARDi.org.uk) to get involved in your area
 
 # *2. DONATIONS*
 
