@@ -22,7 +22,7 @@ Some of the other organisations in Paris:
 * [Solidarité Migrants Wilson](https://www.facebook.com/Solidarit%C3%A9-migrants-Wilson-598228360377940/)
 * [Team du Coeur](https://www.instagram.com/teamducoeur/)
 * [Watizat](https://watizat.org/)
-* [Chaubertin](https://chaubertin.org)
+* [Chaubertin](https://chaubertin.org/)
 * [Utopia 56](http://www.utopia56.com/en/our-missions-in-paris)
 * [FTDA](https://www.france-terre-asile.org/)
 * [Samusocial](https://www.samusocial.paris/)
