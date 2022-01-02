@@ -72,8 +72,6 @@ Follow us on [ Facebook](https://www.facebook.com/MARDi.france2019/) and [Instag
 
 [Donate 4 Refugees](https://www.facebook.com/Donate4Refugees.org/)
 
-[Choose Love](https://www.instagram.com/chooselove/)
-
 #### News from the UK
 
 [Safe Passage](https://www.facebook.com/SafePassageInt)
