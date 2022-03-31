@@ -15,8 +15,5 @@ description: >-
   between 2017 and 2022. 
 
 
-  <br>
-
-
   While the Paris project has now come to an end, MARDi continues to run awareness and support projects across Europe and welcomes anyone wanting to be involved in this solidarity effort.
 ---
