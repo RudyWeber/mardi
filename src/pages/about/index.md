@@ -3,7 +3,7 @@ templateKey: about
 path: /about
 title: About MARDi
 ---
-MARDi was formally created in January 2019 by a group of nurses and doctors from Ireland and the UK after working together providing healthcare support to refugees across France since 2017. Prior to this we had mostly worked in Calais and Paris and found a gap in the healthcare provision for refugees in the Paris Refugee Camps. At this point, supported by friends who we regularly worked with in camps across Europe, we decided to organise.
+MARDi was formally created in January 2019 by a group of nurses and doctors from Ireland and the UK after working together providing healthcare support to refugees across France since 2017. Prior to this we had mostly worked in Calais and Paris and found a gap in the healthcare provision for refugees in the Paris Refugee Camps. At this point, supported by colleagues from jobs in camps across Europe, we decided to organise.
 
 ![](/img/87483306_10220593619447131_9190543256759304192_n.jpg "Bottom left: Harriet Payne, Top left: Elena Lydon, 2nd from right: Harriet Crook")
 
