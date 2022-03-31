@@ -23,7 +23,7 @@ Some of the other organisations in Paris:
 * [Team du Coeur](https://www.instagram.com/teamducoeur/)
 * [Watizat](https://watizat.org/)
 * [Chaubertin](https://chaubertin.org/)
-* [Utopia 56](http://www.utopia56.com/en/our-missions-in-paris)
+* [Utopia 56](https://utopia56.org/)
 * [FTDA](https://www.france-terre-asile.org/)
 * [Samusocial](https://www.samusocial.paris/)
 * [Médecins du Monde](https://www.medecinsdumonde.org/fr/contact/ile-de-france)
