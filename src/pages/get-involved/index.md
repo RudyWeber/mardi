@@ -11,21 +11,15 @@ We know in situations this huge, complicated and emotional it’s easy to feel h
 
 ## Volunteer:
 
-#### Medical Refugee Support NGOs
-
 Our partners [Medical Volunteers International](https://medical-volunteers.org/get-involved/) run refugee healthcare clinics across Europe:
 
-###### Balkan Route (Serbia + Bosnia)
+#### Balkan Route (Serbia + Bosnia)
 
 Where currently many refugees are making the dangerous journey on foot to Western Europe from Greece following rejected asylum claims and maltreatment.
 
-###### Greece (Mainland + Islands)
+#### Greece (Mainland + Islands)
 
 Where thousands of refugees are trapped waiting for asylum decisions whether they want to stay in Greece or not having just reached Europe via Turkey.
-
-
-
-####  
 
 # *2. DONATIONS*
 
