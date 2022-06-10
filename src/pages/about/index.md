@@ -18,10 +18,6 @@ Our Core Team:
 * Katy Last: Fundraising and Financial Coordinator, *Nurse*
 * Cati Mayer: Logistics Coordinator, *IT Project Manager*
 
-![](/img/hc-kl-headshots-bw.png)
-
-![](/img/cm-hp-headshots-bw.jpg "Cati Mayer")
-
 We believe every human being is equal and we must fight any system that challenges this.
 
 Join us.
