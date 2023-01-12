@@ -52,7 +52,7 @@ Help us spread the news of this unforgivable situation far and wide as the gover
 
 #### News from Paris
 
-Follow us on [Instagram](https://www.instagram.com/mardi.france2019/)
+Follow [SMW](https://www.instagram.com/refugees_paris/)[](https://www.instagram.com/refugees_paris/)
 
 #### News from the Mediterranean (crossings from Africa to Europe via Libya)
 
