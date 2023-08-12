@@ -3,7 +3,7 @@ templateKey: get-involved-page
 path: /get-involved
 title: How can you help?
 ---
-We know in situations this huge, complicated and emotional it’s easy to feel hopeless and helpless, but this could not be less true. The smallest act of kindness can go so far and may be the difference between a refugee surviving this difficult time in their life or becoming another devastating headline.
+We know in situations this huge, complicated and emotional it’s easy to feel hopeless and helpless, but this could not be less true. The smallest act of kindness can go so far and may be the difference between a person surviving this difficult time in their life or becoming another devastating headline.
 
 #### To help, you can give any of these 3 things:
 
@@ -11,7 +11,9 @@ We know in situations this huge, complicated and emotional it’s easy to feel h
 
 ## Volunteer:
 
-Our partners [Medical Volunteers International](https://medical-volunteers.org/get-involved/) run refugee healthcare clinics across Europe:
+O﻿ur projects in Pakistan, Guatemala and Italy are currently taking volunteer applications. Contact us via [insta ](https://www.instagram.com/mardi.france2019/)to apply. 
+
+Our partners [Medical Volunteers International](https://medical-volunteers.org/get-involved/) also run refugee healthcare clinics across Europe:
 
 #### Balkan Route (Serbia + Bosnia)
 
@@ -22,8 +24,6 @@ Where currently many refugees are making the dangerous journey on foot to Wester
 Where thousands of refugees are trapped waiting for asylum decisions whether they want to stay in Greece or not having just reached Europe via Turkey.
 
 # *2. DONATIONS*
-
-Our funds are currently on divert to [For Refugees](https://www.forrefugees.org/) who support most grassroots refugee support groups across Europe:
 
 <center>
 <form action="https://www.paypal.com/cgi-bin/webscr"
@@ -46,26 +46,4 @@ Our funds are currently on divert to [For Refugees](https://www.forrefugees.org/
 
 # *3. YOUR VOICE*
 
-Help us spread the news of this unforgivable situation far and wide as the governments and press of Europe try to hide their actions.
-
-## Places to keep up to date:
-
-#### News from Paris
-
-Follow [SMW](https://www.instagram.com/refugees_paris/)[](https://www.instagram.com/refugees_paris/)
-
-#### News from the Mediterranean (crossings from Africa to Europe via Libya)
-
-[Seawatch](https://www.instagram.com/seawatchcrew/)
-
-#### News from the rest of Europe
-
-[For Refugees](https://www.instagram.com/forrefugees_org/)
-
-#### News from the UK
-
-[Safe Passage](https://www.instagram.com/safepassageuk/)
-
-[Detention Action](https://www.instagram.com/detention_action/)
-
-[Refugee Council](https://www.instagram.com/refugeecouncil/)
+M﻿ake people aware of the extent of homeless and medical exclusion around the world. The choices made by governments of wealthy countries in maltreating these people and the many pressures facing financially challenged countries in providing  for these populations.
