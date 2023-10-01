@@ -1,19 +1,20 @@
 ---
 templateKey: index-page
-title: Being homeless is not a choice
+title: Refugees have been deserted by Europe
 subtitle: Stand in solidarity
 image: /img/home-jumbotron.jpg
 mainpitch:
   title: MARDi
   description: An international grassroots NGO of healthcare, translation and
-    support staff working with homeless people on a global scale.
+    support staff working with refugees in several countries across Europe.
 heading: Our Projects
 description: >-
-  We are a network of healthcare professionals, translators and support staff.
-  Our major project was providing frontline first aid and emergency care for
-  refugees and displaced people living in the Paris Refugee Camps in France
-  between 2017 and 2022. 
+  W﻿e are a network of healthcare professionals, translators and support staff.
+  Our major project was providing front line emergency care for refugees and
+  displaced people living in the Paris refugee camps between 2017 and 2022. 
 
 
-  MARDi now runs projects with homeless communities around the world including Pakistan, Guatemala, Italy, Greece and France and welcomes anyone wanting to be involved in this solidarity effort.
+
+
+  W﻿hile the Paris project has now come to an end, MARDi continues to run awareness and support projects across Europe.
 ---
