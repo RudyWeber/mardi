@@ -21,9 +21,9 @@ We also collect evidence of the human rights abuses occurring daily in the camps
 
   * [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32093-8/fulltext)
   * [British Journal of GPs](https://bjgplife.com/2020/02/11/caring-for-refugees-in-europe-can-kindness-overcome-hostility)
-* Speaker events with other grassroots organisations, such as:
+* Speaker events with other grassroots organisations, e.g
 
   * [Hull Help for Refugees](https://www.facebook.com/HullHelpForRefugees/videos/2621506991449060/)
   * [For Refugees](https://www.facebook.com/events/1032830413812613/)
 
-T﻿o keep up-to-date with our work, follow us on [insta](https://www.instagram.com/mardi.france2019/).
+T﻿o keep up-to-date with all our work, follow us on [insta](https://www.instagram.com/mardi.france2019/).
