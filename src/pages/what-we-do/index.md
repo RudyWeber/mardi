@@ -14,11 +14,16 @@ Our work has two main aims; firstly to bridge the healthcare gap between what re
 We also collect evidence of the human rights abuses occurring daily in the camps and present this in as many circles as possible. For example:
 
 * [Our social media platform](https://www.instagram.com/mardi.france2019/)
+* P﻿osters at academic conferences, e.g.
+
+  * [R﻿oyal College of Emergency Medicine ASC 2023](https://www.instagram.com/p/CxpquOrNeUF/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)[](https://www.instagram.com/mardi.france2019/)
 * Articles in international publications, e.g.
-* * [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32093-8/fulltext)
+
+  * [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)32093-8/fulltext)
   * [British Journal of GPs](https://bjgplife.com/2020/02/11/caring-for-refugees-in-europe-can-kindness-overcome-hostility)
 * Speaker events with other grassroots organisations, such as:
-* * [Hull Help for Refugees](https://www.facebook.com/HullHelpForRefugees/videos/2621506991449060/)
+
+  * [Hull Help for Refugees](https://www.facebook.com/HullHelpForRefugees/videos/2621506991449060/)
   * [For Refugees](https://www.facebook.com/events/1032830413812613/)
 
 T﻿o keep up-to-date with our work, follow us on [insta](https://www.instagram.com/mardi.france2019/).
