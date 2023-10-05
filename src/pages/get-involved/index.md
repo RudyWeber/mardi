@@ -19,7 +19,7 @@ Greece (Mainland + Islands):
 
 *Where thousands of refugees are trapped waiting for asylum decisions whether they want to stay in Greece or not having just reached Europe via Turkey.*
 
-###### O﻿ther Medical NGOs in Europe that we have previously worked alongside include:
+#### O﻿ther Medical NGOs in Europe that we have previously worked alongside include:
 
 [B﻿oat Refugee Foundation](https://bootvluchteling.nl/en/) (Moria, Lesvos, Greece)
 
@@ -50,32 +50,26 @@ Greece (Mainland + Islands):
 
 Help us spread the news of this unforgivable situation far and wide as the governments and press of Europe try to hide their actions.
 
-##### Places to keep up to date:
+#### Places to keep up to date:
 
-###### News from Paris
+News from Paris
 
-[SMW](https://www.instagram.com/refugees_paris/)
+* [SMW](https://www.instagram.com/refugees_paris/)
+* [U﻿topia](https://www.instagram.com/utopia56paris/)
 
-[U﻿topia](https://www.instagram.com/utopia56paris/)
+News from the Mediterranean (crossings from Africa to Europe via Libya)
 
-###### News from the Mediterranean (crossings from Africa to Europe via Libya)
+* [Seawatch](https://www.instagram.com/seawatchcrew/)
 
-[Seawatch](https://www.instagram.com/seawatchcrew/)
+News from the rest of Europe (including crossings from Turkey to Greece)
 
-###### News from the rest of Europe (including crossings from Turkey to Greece)
+* [M﻿VI](https://www.instagram.com/mvi_org/)
+* [S﻿ara Mardini](https://www.instagram.com/sara_mardini963/)
+* [A﻿egean Boat Report](https://www.instagram.com/aegeanboatreport/)
+* [For Refugees](https://www.instagram.com/forrefugees_org/)
 
-[M﻿VI](https://www.instagram.com/mvi_org/)
+News from the UK
 
-[S﻿ara Mardini](https://www.instagram.com/sara_mardini963/)
-
-[A﻿egean Boat Report](https://www.instagram.com/aegeanboatreport/)
-
-[For Refugees](https://www.instagram.com/forrefugees_org/)
-
-###### News from the UK
-
-[Safe Passage](https://www.instagram.com/safepassageuk/)
-
-[Detention Action](https://www.instagram.com/detention_action/)
-
-[Refugee Council](https://www.instagram.com/refugeecouncil/)
+* [Safe Passage](https://www.instagram.com/safepassageuk/)
+* [Detention Action](https://www.instagram.com/detention_action/)
+* [Refugee Council](https://www.instagram.com/refugeecouncil/)
