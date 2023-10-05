@@ -22,10 +22,14 @@ Our Core Team:
 
 ![](/img/hc-kl-headshots-bw.png)
 
-<﻿center>
+```
+<center>
+```
 
 We believe every human being is equal and we must fight any system that challenges this.
 
 Join us.
 
+```
 <﻿/center>
+```
