@@ -19,7 +19,7 @@ Greece (Mainland + Islands):
 
 *Where thousands of refugees are trapped waiting for asylum decisions whether they want to stay in Greece or not having just reached Europe via Turkey.*
 
-###### O﻿ther Medical NGOs in Europe that we have previously worked alongside include: 
+###### O﻿ther Medical NGOs in Europe that we have previously worked alongside include:
 
 [B﻿oat Refugee Foundation](https://bootvluchteling.nl/en/) (Moria, Lesvos, Greece)
 
@@ -54,13 +54,21 @@ Help us spread the news of this unforgivable situation far and wide as the gover
 
 ###### News from Paris
 
-Follow [SMW](https://www.instagram.com/refugees_paris/)
+[SMW](https://www.instagram.com/refugees_paris/)
+
+[U﻿topia](https://www.instagram.com/utopia56paris/)
 
 ###### News from the Mediterranean (crossings from Africa to Europe via Libya)
 
 [Seawatch](https://www.instagram.com/seawatchcrew/)
 
-###### News from the rest of Europe
+###### News from the rest of Europe (including crossings from Turkey to Greece)
+
+[M﻿VI](https://www.instagram.com/mvi_org/)
+
+[S﻿ara Mardini](https://www.instagram.com/sara_mardini963/)
+
+[A﻿egean Boat Report](https://www.instagram.com/aegeanboatreport/)
 
 [For Refugees](https://www.instagram.com/forrefugees_org/)
 
