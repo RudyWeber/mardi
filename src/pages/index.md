@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: Refugees have been deserted by Europe
-subtitle: Stand in solidarity
+subtitle: Funds on temporary divert to buy ambulances in Gaza, Palestine Stand
+  in Solidarity
 image: /img/home-jumbotron.jpg
 mainpitch:
   title: MARDi
